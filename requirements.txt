@@ -1,0 +1,5 @@
+django==4.1.7
+djangorestframework==3.14.0
+psycopg2==2.9.5
+django-seed==0.3.1
+pip==22.3.1
